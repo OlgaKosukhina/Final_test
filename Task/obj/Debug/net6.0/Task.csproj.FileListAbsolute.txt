@@ -1,0 +1,15 @@
+/Users/olgakosuhina/Desktop/study/final_test/Task/bin/Debug/net6.0/Task
+/Users/olgakosuhina/Desktop/study/final_test/Task/bin/Debug/net6.0/Task.deps.json
+/Users/olgakosuhina/Desktop/study/final_test/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/olgakosuhina/Desktop/study/final_test/Task/bin/Debug/net6.0/Task.dll
+/Users/olgakosuhina/Desktop/study/final_test/Task/bin/Debug/net6.0/Task.pdb
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/Task.dll
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/Task.pdb
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/olgakosuhina/Desktop/study/final_test/Task/obj/Debug/net6.0/ref/Task.dll
